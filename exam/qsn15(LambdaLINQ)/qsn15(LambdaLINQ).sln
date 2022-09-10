@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qsn15(LambdaLINQ)", "qsn15(LambdaLINQ).csproj", "{494C19B4-17C1-4DFB-B77F-11060319D749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{494C19B4-17C1-4DFB-B77F-11060319D749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{494C19B4-17C1-4DFB-B77F-11060319D749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{494C19B4-17C1-4DFB-B77F-11060319D749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{494C19B4-17C1-4DFB-B77F-11060319D749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE236912-44B8-43E6-AEF1-F3A09E8A95BB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\bin\Debug\net6.0\3Indexer.exe
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\bin\Debug\net6.0\3Indexer.deps.json
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\bin\Debug\net6.0\3Indexer.runtimeconfig.json
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\bin\Debug\net6.0\3Indexer.dll
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\bin\Debug\net6.0\3Indexer.pdb
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\obj\Debug\net6.0\3Indexer.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\obj\Debug\net6.0\3Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\obj\Debug\net6.0\3Indexer.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\obj\Debug\net6.0\3Indexer.AssemblyInfo.cs
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\obj\Debug\net6.0\3Indexer.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\obj\Debug\net6.0\3Indexer.dll
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\obj\Debug\net6.0\refint\3Indexer.dll
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\obj\Debug\net6.0\3Indexer.pdb
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\obj\Debug\net6.0\3Indexer.genruntimeconfig.cache
+C:\Users\sudip\source\repos\Board\3Indexer\3Indexer\obj\Debug\net6.0\ref\3Indexer.dll

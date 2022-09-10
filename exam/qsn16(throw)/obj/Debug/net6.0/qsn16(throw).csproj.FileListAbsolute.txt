@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\exam\qsn16(throw)\bin\Debug\net6.0\qsn16(throw).exe
+C:\Users\sudip\source\repos\exam\qsn16(throw)\bin\Debug\net6.0\qsn16(throw).deps.json
+C:\Users\sudip\source\repos\exam\qsn16(throw)\bin\Debug\net6.0\qsn16(throw).runtimeconfig.json
+C:\Users\sudip\source\repos\exam\qsn16(throw)\bin\Debug\net6.0\qsn16(throw).dll
+C:\Users\sudip\source\repos\exam\qsn16(throw)\bin\Debug\net6.0\qsn16(throw).pdb
+C:\Users\sudip\source\repos\exam\qsn16(throw)\obj\Debug\net6.0\qsn16(throw).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\exam\qsn16(throw)\obj\Debug\net6.0\qsn16(throw).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\exam\qsn16(throw)\obj\Debug\net6.0\qsn16(throw).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\exam\qsn16(throw)\obj\Debug\net6.0\qsn16(throw).AssemblyInfo.cs
+C:\Users\sudip\source\repos\exam\qsn16(throw)\obj\Debug\net6.0\qsn16(throw).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\exam\qsn16(throw)\obj\Debug\net6.0\qsn16(throw).dll
+C:\Users\sudip\source\repos\exam\qsn16(throw)\obj\Debug\net6.0\refint\qsn16(throw).dll
+C:\Users\sudip\source\repos\exam\qsn16(throw)\obj\Debug\net6.0\qsn16(throw).pdb
+C:\Users\sudip\source\repos\exam\qsn16(throw)\obj\Debug\net6.0\qsn16(throw).genruntimeconfig.cache
+C:\Users\sudip\source\repos\exam\qsn16(throw)\obj\Debug\net6.0\ref\qsn16(throw).dll

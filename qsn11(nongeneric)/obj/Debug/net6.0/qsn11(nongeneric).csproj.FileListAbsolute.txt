@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn11(nongeneric)\bin\Debug\net6.0\qsn11(nongeneric).exe
+C:\Users\sudip\source\repos\qsn11(nongeneric)\bin\Debug\net6.0\qsn11(nongeneric).deps.json
+C:\Users\sudip\source\repos\qsn11(nongeneric)\bin\Debug\net6.0\qsn11(nongeneric).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn11(nongeneric)\bin\Debug\net6.0\qsn11(nongeneric).dll
+C:\Users\sudip\source\repos\qsn11(nongeneric)\bin\Debug\net6.0\qsn11(nongeneric).pdb
+C:\Users\sudip\source\repos\qsn11(nongeneric)\obj\Debug\net6.0\qsn11(nongeneric).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn11(nongeneric)\obj\Debug\net6.0\qsn11(nongeneric).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn11(nongeneric)\obj\Debug\net6.0\qsn11(nongeneric).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn11(nongeneric)\obj\Debug\net6.0\qsn11(nongeneric).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn11(nongeneric)\obj\Debug\net6.0\qsn11(nongeneric).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn11(nongeneric)\obj\Debug\net6.0\qsn11(nongeneric).dll
+C:\Users\sudip\source\repos\qsn11(nongeneric)\obj\Debug\net6.0\refint\qsn11(nongeneric).dll
+C:\Users\sudip\source\repos\qsn11(nongeneric)\obj\Debug\net6.0\qsn11(nongeneric).pdb
+C:\Users\sudip\source\repos\qsn11(nongeneric)\obj\Debug\net6.0\qsn11(nongeneric).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn11(nongeneric)\obj\Debug\net6.0\ref\qsn11(nongeneric).dll

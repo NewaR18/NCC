@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn3(sortarray)\bin\Debug\net6.0\qsn3(sortarray).exe
+C:\Users\sudip\source\repos\qsn3(sortarray)\bin\Debug\net6.0\qsn3(sortarray).deps.json
+C:\Users\sudip\source\repos\qsn3(sortarray)\bin\Debug\net6.0\qsn3(sortarray).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn3(sortarray)\bin\Debug\net6.0\qsn3(sortarray).dll
+C:\Users\sudip\source\repos\qsn3(sortarray)\bin\Debug\net6.0\qsn3(sortarray).pdb
+C:\Users\sudip\source\repos\qsn3(sortarray)\obj\Debug\net6.0\qsn3(sortarray).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn3(sortarray)\obj\Debug\net6.0\qsn3(sortarray).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn3(sortarray)\obj\Debug\net6.0\qsn3(sortarray).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn3(sortarray)\obj\Debug\net6.0\qsn3(sortarray).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn3(sortarray)\obj\Debug\net6.0\qsn3(sortarray).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn3(sortarray)\obj\Debug\net6.0\qsn3(sortarray).dll
+C:\Users\sudip\source\repos\qsn3(sortarray)\obj\Debug\net6.0\refint\qsn3(sortarray).dll
+C:\Users\sudip\source\repos\qsn3(sortarray)\obj\Debug\net6.0\qsn3(sortarray).pdb
+C:\Users\sudip\source\repos\qsn3(sortarray)\obj\Debug\net6.0\qsn3(sortarray).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn3(sortarray)\obj\Debug\net6.0\ref\qsn3(sortarray).dll

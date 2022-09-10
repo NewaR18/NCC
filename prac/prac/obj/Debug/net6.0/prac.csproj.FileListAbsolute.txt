@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\prac\prac\obj\Debug\net6.0\prac.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\prac\prac\obj\Debug\net6.0\prac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\prac\prac\obj\Debug\net6.0\prac.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\prac\prac\obj\Debug\net6.0\prac.AssemblyInfo.cs
+C:\Users\sudip\source\repos\prac\prac\obj\Debug\net6.0\prac.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\prac\prac\bin\Debug\net6.0\prac.exe
+C:\Users\sudip\source\repos\prac\prac\bin\Debug\net6.0\prac.deps.json
+C:\Users\sudip\source\repos\prac\prac\bin\Debug\net6.0\prac.runtimeconfig.json
+C:\Users\sudip\source\repos\prac\prac\bin\Debug\net6.0\prac.dll
+C:\Users\sudip\source\repos\prac\prac\bin\Debug\net6.0\prac.pdb
+C:\Users\sudip\source\repos\prac\prac\obj\Debug\net6.0\prac.dll
+C:\Users\sudip\source\repos\prac\prac\obj\Debug\net6.0\refint\prac.dll
+C:\Users\sudip\source\repos\prac\prac\obj\Debug\net6.0\prac.pdb
+C:\Users\sudip\source\repos\prac\prac\obj\Debug\net6.0\prac.genruntimeconfig.cache
+C:\Users\sudip\source\repos\prac\prac\obj\Debug\net6.0\ref\prac.dll

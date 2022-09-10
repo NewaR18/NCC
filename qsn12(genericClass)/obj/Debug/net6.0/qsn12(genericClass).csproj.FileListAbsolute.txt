@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn12(genericClass)\bin\Debug\net6.0\qsn12(genericClass).exe
+C:\Users\sudip\source\repos\qsn12(genericClass)\bin\Debug\net6.0\qsn12(genericClass).deps.json
+C:\Users\sudip\source\repos\qsn12(genericClass)\bin\Debug\net6.0\qsn12(genericClass).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn12(genericClass)\bin\Debug\net6.0\qsn12(genericClass).dll
+C:\Users\sudip\source\repos\qsn12(genericClass)\bin\Debug\net6.0\qsn12(genericClass).pdb
+C:\Users\sudip\source\repos\qsn12(genericClass)\obj\Debug\net6.0\qsn12(genericClass).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn12(genericClass)\obj\Debug\net6.0\qsn12(genericClass).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn12(genericClass)\obj\Debug\net6.0\qsn12(genericClass).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn12(genericClass)\obj\Debug\net6.0\qsn12(genericClass).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn12(genericClass)\obj\Debug\net6.0\qsn12(genericClass).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn12(genericClass)\obj\Debug\net6.0\qsn12(genericClass).dll
+C:\Users\sudip\source\repos\qsn12(genericClass)\obj\Debug\net6.0\refint\qsn12(genericClass).dll
+C:\Users\sudip\source\repos\qsn12(genericClass)\obj\Debug\net6.0\qsn12(genericClass).pdb
+C:\Users\sudip\source\repos\qsn12(genericClass)\obj\Debug\net6.0\qsn12(genericClass).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn12(genericClass)\obj\Debug\net6.0\ref\qsn12(genericClass).dll

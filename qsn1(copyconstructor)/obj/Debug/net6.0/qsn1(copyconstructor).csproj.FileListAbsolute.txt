@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\bin\Debug\net6.0\qsn1(copyconstructor).exe
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\bin\Debug\net6.0\qsn1(copyconstructor).deps.json
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\bin\Debug\net6.0\qsn1(copyconstructor).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\bin\Debug\net6.0\qsn1(copyconstructor).dll
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\bin\Debug\net6.0\qsn1(copyconstructor).pdb
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\obj\Debug\net6.0\qsn1(copyconstructor).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\obj\Debug\net6.0\qsn1(copyconstructor).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\obj\Debug\net6.0\qsn1(copyconstructor).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\obj\Debug\net6.0\qsn1(copyconstructor).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\obj\Debug\net6.0\qsn1(copyconstructor).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\obj\Debug\net6.0\qsn1(copyconstructor).dll
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\obj\Debug\net6.0\refint\qsn1(copyconstructor).dll
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\obj\Debug\net6.0\qsn1(copyconstructor).pdb
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\obj\Debug\net6.0\qsn1(copyconstructor).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn1(copyconstructor)\obj\Debug\net6.0\ref\qsn1(copyconstructor).dll

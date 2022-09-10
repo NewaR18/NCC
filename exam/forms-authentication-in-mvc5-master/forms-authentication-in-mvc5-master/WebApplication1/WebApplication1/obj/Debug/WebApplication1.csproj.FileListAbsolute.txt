@@ -1,0 +1,104 @@
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\EntityFramework.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\EntityFramework.xml
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\Work\Youtube\ASP.NET MVC 5\part54 Forms authentication\src\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\csc.exe.config
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\csc.rsp
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\csi.exe
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\csi.rsp
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\System.AppContext.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\vbc.exe.config
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\vbc.rsp
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\EntityFramework.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\System.Web.Webpages.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\EntityFramework.xml
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\System.Web.Webpages.xml
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\System.Web.Webpages.Deployment.xml
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\System.Web.Webpages.Razor.xml
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CopyComplete
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\sudip\source\repos\exam\forms-authentication-in-mvc5-master\forms-authentication-in-mvc5-master\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

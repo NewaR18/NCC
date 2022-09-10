@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\bin\Debug\net6.0\printhelloworld.exe
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\bin\Debug\net6.0\printhelloworld.deps.json
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\bin\Debug\net6.0\printhelloworld.runtimeconfig.json
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\bin\Debug\net6.0\printhelloworld.dll
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\bin\Debug\net6.0\printhelloworld.pdb
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\obj\Debug\net6.0\printhelloworld.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\obj\Debug\net6.0\printhelloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\obj\Debug\net6.0\printhelloworld.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\obj\Debug\net6.0\printhelloworld.AssemblyInfo.cs
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\obj\Debug\net6.0\printhelloworld.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\obj\Debug\net6.0\printhelloworld.dll
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\obj\Debug\net6.0\refint\printhelloworld.dll
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\obj\Debug\net6.0\printhelloworld.pdb
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\obj\Debug\net6.0\printhelloworld.genruntimeconfig.cache
+C:\Users\sudip\source\repos\printhelloworld\printhelloworld\obj\Debug\net6.0\ref\printhelloworld.dll

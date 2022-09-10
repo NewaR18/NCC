@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\Board\1Property\1Property\bin\Debug\net6.0\1Property.exe
+C:\Users\sudip\source\repos\Board\1Property\1Property\bin\Debug\net6.0\1Property.deps.json
+C:\Users\sudip\source\repos\Board\1Property\1Property\bin\Debug\net6.0\1Property.runtimeconfig.json
+C:\Users\sudip\source\repos\Board\1Property\1Property\bin\Debug\net6.0\1Property.dll
+C:\Users\sudip\source\repos\Board\1Property\1Property\bin\Debug\net6.0\1Property.pdb
+C:\Users\sudip\source\repos\Board\1Property\1Property\obj\Debug\net6.0\1Property.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\Board\1Property\1Property\obj\Debug\net6.0\1Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\Board\1Property\1Property\obj\Debug\net6.0\1Property.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\Board\1Property\1Property\obj\Debug\net6.0\1Property.AssemblyInfo.cs
+C:\Users\sudip\source\repos\Board\1Property\1Property\obj\Debug\net6.0\1Property.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\Board\1Property\1Property\obj\Debug\net6.0\1Property.dll
+C:\Users\sudip\source\repos\Board\1Property\1Property\obj\Debug\net6.0\refint\1Property.dll
+C:\Users\sudip\source\repos\Board\1Property\1Property\obj\Debug\net6.0\1Property.pdb
+C:\Users\sudip\source\repos\Board\1Property\1Property\obj\Debug\net6.0\1Property.genruntimeconfig.cache
+C:\Users\sudip\source\repos\Board\1Property\1Property\obj\Debug\net6.0\ref\1Property.dll

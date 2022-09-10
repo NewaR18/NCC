@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\bin\Debug\net6.0\qsn17(builtinAttribute).exe
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\bin\Debug\net6.0\qsn17(builtinAttribute).deps.json
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\bin\Debug\net6.0\qsn17(builtinAttribute).runtimeconfig.json
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\bin\Debug\net6.0\qsn17(builtinAttribute).dll
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\bin\Debug\net6.0\qsn17(builtinAttribute).pdb
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\obj\Debug\net6.0\qsn17(builtinAttribute).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\obj\Debug\net6.0\qsn17(builtinAttribute).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\obj\Debug\net6.0\qsn17(builtinAttribute).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\obj\Debug\net6.0\qsn17(builtinAttribute).AssemblyInfo.cs
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\obj\Debug\net6.0\qsn17(builtinAttribute).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\obj\Debug\net6.0\qsn17(builtinAttribute).dll
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\obj\Debug\net6.0\refint\qsn17(builtinAttribute).dll
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\obj\Debug\net6.0\qsn17(builtinAttribute).pdb
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\obj\Debug\net6.0\qsn17(builtinAttribute).genruntimeconfig.cache
+C:\Users\sudip\source\repos\exam\qsn17(builtinAttribute)\obj\Debug\net6.0\ref\qsn17(builtinAttribute).dll

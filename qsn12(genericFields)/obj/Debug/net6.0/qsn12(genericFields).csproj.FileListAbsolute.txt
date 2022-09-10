@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn12(genericFields)\bin\Debug\net6.0\qsn12(genericFields).exe
+C:\Users\sudip\source\repos\qsn12(genericFields)\bin\Debug\net6.0\qsn12(genericFields).deps.json
+C:\Users\sudip\source\repos\qsn12(genericFields)\bin\Debug\net6.0\qsn12(genericFields).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn12(genericFields)\bin\Debug\net6.0\qsn12(genericFields).dll
+C:\Users\sudip\source\repos\qsn12(genericFields)\bin\Debug\net6.0\qsn12(genericFields).pdb
+C:\Users\sudip\source\repos\qsn12(genericFields)\obj\Debug\net6.0\qsn12(genericFields).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn12(genericFields)\obj\Debug\net6.0\qsn12(genericFields).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn12(genericFields)\obj\Debug\net6.0\qsn12(genericFields).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn12(genericFields)\obj\Debug\net6.0\qsn12(genericFields).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn12(genericFields)\obj\Debug\net6.0\qsn12(genericFields).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn12(genericFields)\obj\Debug\net6.0\qsn12(genericFields).dll
+C:\Users\sudip\source\repos\qsn12(genericFields)\obj\Debug\net6.0\refint\qsn12(genericFields).dll
+C:\Users\sudip\source\repos\qsn12(genericFields)\obj\Debug\net6.0\qsn12(genericFields).pdb
+C:\Users\sudip\source\repos\qsn12(genericFields)\obj\Debug\net6.0\qsn12(genericFields).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn12(genericFields)\obj\Debug\net6.0\ref\qsn12(genericFields).dll

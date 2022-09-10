@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn10(delegate)\bin\Debug\net6.0\qsn10(delegate).exe
+C:\Users\sudip\source\repos\qsn10(delegate)\bin\Debug\net6.0\qsn10(delegate).deps.json
+C:\Users\sudip\source\repos\qsn10(delegate)\bin\Debug\net6.0\qsn10(delegate).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn10(delegate)\bin\Debug\net6.0\qsn10(delegate).dll
+C:\Users\sudip\source\repos\qsn10(delegate)\bin\Debug\net6.0\qsn10(delegate).pdb
+C:\Users\sudip\source\repos\qsn10(delegate)\obj\Debug\net6.0\qsn10(delegate).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn10(delegate)\obj\Debug\net6.0\qsn10(delegate).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn10(delegate)\obj\Debug\net6.0\qsn10(delegate).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn10(delegate)\obj\Debug\net6.0\qsn10(delegate).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn10(delegate)\obj\Debug\net6.0\qsn10(delegate).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn10(delegate)\obj\Debug\net6.0\qsn10(delegate).dll
+C:\Users\sudip\source\repos\qsn10(delegate)\obj\Debug\net6.0\refint\qsn10(delegate).dll
+C:\Users\sudip\source\repos\qsn10(delegate)\obj\Debug\net6.0\qsn10(delegate).pdb
+C:\Users\sudip\source\repos\qsn10(delegate)\obj\Debug\net6.0\qsn10(delegate).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn10(delegate)\obj\Debug\net6.0\ref\qsn10(delegate).dll

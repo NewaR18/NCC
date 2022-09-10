@@ -1,0 +1,13 @@
+﻿@model DatabaseUsingMVC.Models.Student;
+<h2>Form is presented below</h2>
+<form asp-controller="Student" asp-action="form">
+    <label asp-for="Id">Enter your id</label>
+    <input type="number" asp-for="Id" /><br/>
+    <label asp-for="Name">Enter your name</label>
+    <input type="text" asp-for="Name" /><br/>
+    <label asp-for="Address">Enter your Address</label>
+    <input type="text" asp-for="Address" /><br/>
+    <label asp-for="PhoneNo">Enter your Phone Number</label>
+    <input type="number" asp-for="PhoneNo" /><br/>
+    <input type="Submit" value="Okay" />
+</form>

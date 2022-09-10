@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\bin\Debug\net6.0\5delegate.exe
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\bin\Debug\net6.0\5delegate.deps.json
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\bin\Debug\net6.0\5delegate.runtimeconfig.json
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\bin\Debug\net6.0\5delegate.dll
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\bin\Debug\net6.0\5delegate.pdb
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\obj\Debug\net6.0\5delegate.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\obj\Debug\net6.0\5delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\obj\Debug\net6.0\5delegate.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\obj\Debug\net6.0\5delegate.AssemblyInfo.cs
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\obj\Debug\net6.0\5delegate.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\obj\Debug\net6.0\5delegate.dll
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\obj\Debug\net6.0\refint\5delegate.dll
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\obj\Debug\net6.0\5delegate.pdb
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\obj\Debug\net6.0\5delegate.genruntimeconfig.cache
+C:\Users\sudip\source\repos\Board\5delegate\5delegate\obj\Debug\net6.0\ref\5delegate.dll

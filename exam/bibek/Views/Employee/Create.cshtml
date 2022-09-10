@@ -1,0 +1,20 @@
+﻿@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@using DemoWebApp.Enum;
+@model DemoWebApp.Models.Employee;
+
+<h2>CREATE EMPLOYEE FORM</h2>
+<form asp-controller="Employee" asp-action="Create">
+    <label asp-for="EmpId">Employee ID</label>
+    <br /><input asp-for="EmpId" /><br />
+    <label asp-for="Name"></label>
+    <br/><input asp-for="Name"><br/>
+    <label asp-for="Address"></label>
+    <br /><input asp-for="Address" /><br />
+    <label asp-for="Department"></label>
+    <br /><select asp-for="Department" asp-items="Html.GetEnumSelectList<Departments>()"></select><br />
+    <label asp-for="Salary"></label>
+    <br /><input asp-for="Salary"/><br /><br />
+    <input type="submit" value="Save" onmouseover="style= color:red;"/>
+    <button onmouseover="style=color:blue;">button</button>
+    <p></p>
+    </form>

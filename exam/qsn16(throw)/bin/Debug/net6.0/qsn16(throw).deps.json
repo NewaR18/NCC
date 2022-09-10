@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "qsn16(throw)/1.0.0": {
+        "runtime": {
+          "qsn16(throw).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "qsn16(throw)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

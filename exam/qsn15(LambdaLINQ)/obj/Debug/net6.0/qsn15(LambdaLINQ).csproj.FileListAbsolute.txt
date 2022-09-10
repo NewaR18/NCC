@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\bin\Debug\net6.0\qsn15(LambdaLINQ).exe
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\bin\Debug\net6.0\qsn15(LambdaLINQ).deps.json
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\bin\Debug\net6.0\qsn15(LambdaLINQ).runtimeconfig.json
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\bin\Debug\net6.0\qsn15(LambdaLINQ).dll
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\bin\Debug\net6.0\qsn15(LambdaLINQ).pdb
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\obj\Debug\net6.0\qsn15(LambdaLINQ).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\obj\Debug\net6.0\qsn15(LambdaLINQ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\obj\Debug\net6.0\qsn15(LambdaLINQ).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\obj\Debug\net6.0\qsn15(LambdaLINQ).AssemblyInfo.cs
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\obj\Debug\net6.0\qsn15(LambdaLINQ).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\obj\Debug\net6.0\qsn15(LambdaLINQ).dll
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\obj\Debug\net6.0\refint\qsn15(LambdaLINQ).dll
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\obj\Debug\net6.0\qsn15(LambdaLINQ).pdb
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\obj\Debug\net6.0\qsn15(LambdaLINQ).genruntimeconfig.cache
+C:\Users\sudip\source\repos\exam\qsn15(LambdaLINQ)\obj\Debug\net6.0\ref\qsn15(LambdaLINQ).dll

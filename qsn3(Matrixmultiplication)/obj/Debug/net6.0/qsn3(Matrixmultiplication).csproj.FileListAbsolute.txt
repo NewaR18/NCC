@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\bin\Debug\net6.0\qsn3(Matrixmultiplication).exe
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\bin\Debug\net6.0\qsn3(Matrixmultiplication).deps.json
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\bin\Debug\net6.0\qsn3(Matrixmultiplication).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\bin\Debug\net6.0\qsn3(Matrixmultiplication).dll
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\bin\Debug\net6.0\qsn3(Matrixmultiplication).pdb
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\obj\Debug\net6.0\qsn3(Matrixmultiplication).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\obj\Debug\net6.0\qsn3(Matrixmultiplication).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\obj\Debug\net6.0\qsn3(Matrixmultiplication).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\obj\Debug\net6.0\qsn3(Matrixmultiplication).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\obj\Debug\net6.0\qsn3(Matrixmultiplication).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\obj\Debug\net6.0\qsn3(Matrixmultiplication).dll
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\obj\Debug\net6.0\refint\qsn3(Matrixmultiplication).dll
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\obj\Debug\net6.0\qsn3(Matrixmultiplication).pdb
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\obj\Debug\net6.0\qsn3(Matrixmultiplication).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn3(Matrixmultiplication)\obj\Debug\net6.0\ref\qsn3(Matrixmultiplication).dll

@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\Controllers",
+    "\\obj",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\net6.0",
+    "\\Views",
+    "\\Views\\Home"
+  ],
+  "SelectedNode": "\\Controllers",
+  "PreviewInSolutionExplorer": false
+}

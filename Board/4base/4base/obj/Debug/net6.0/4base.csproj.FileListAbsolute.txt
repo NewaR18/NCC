@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\Board\4base\4base\obj\Debug\net6.0\4base.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\Board\4base\4base\obj\Debug\net6.0\4base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\Board\4base\4base\obj\Debug\net6.0\4base.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\Board\4base\4base\obj\Debug\net6.0\4base.AssemblyInfo.cs
+C:\Users\sudip\source\repos\Board\4base\4base\obj\Debug\net6.0\4base.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\Board\4base\4base\bin\Debug\net6.0\4base.exe
+C:\Users\sudip\source\repos\Board\4base\4base\bin\Debug\net6.0\4base.deps.json
+C:\Users\sudip\source\repos\Board\4base\4base\bin\Debug\net6.0\4base.runtimeconfig.json
+C:\Users\sudip\source\repos\Board\4base\4base\bin\Debug\net6.0\4base.dll
+C:\Users\sudip\source\repos\Board\4base\4base\bin\Debug\net6.0\4base.pdb
+C:\Users\sudip\source\repos\Board\4base\4base\obj\Debug\net6.0\4base.dll
+C:\Users\sudip\source\repos\Board\4base\4base\obj\Debug\net6.0\refint\4base.dll
+C:\Users\sudip\source\repos\Board\4base\4base\obj\Debug\net6.0\4base.pdb
+C:\Users\sudip\source\repos\Board\4base\4base\obj\Debug\net6.0\4base.genruntimeconfig.cache
+C:\Users\sudip\source\repos\Board\4base\4base\obj\Debug\net6.0\ref\4base.dll

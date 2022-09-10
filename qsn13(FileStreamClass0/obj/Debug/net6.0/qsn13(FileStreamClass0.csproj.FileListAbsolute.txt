@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\bin\Debug\net6.0\qsn13(FileStreamClass0.exe
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\bin\Debug\net6.0\qsn13(FileStreamClass0.deps.json
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\bin\Debug\net6.0\qsn13(FileStreamClass0.runtimeconfig.json
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\bin\Debug\net6.0\qsn13(FileStreamClass0.dll
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\bin\Debug\net6.0\qsn13(FileStreamClass0.pdb
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\obj\Debug\net6.0\qsn13(FileStreamClass0.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\obj\Debug\net6.0\qsn13(FileStreamClass0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\obj\Debug\net6.0\qsn13(FileStreamClass0.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\obj\Debug\net6.0\qsn13(FileStreamClass0.AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\obj\Debug\net6.0\qsn13(FileStreamClass0.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\obj\Debug\net6.0\qsn13(FileStreamClass0.dll
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\obj\Debug\net6.0\refint\qsn13(FileStreamClass0.dll
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\obj\Debug\net6.0\qsn13(FileStreamClass0.pdb
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\obj\Debug\net6.0\qsn13(FileStreamClass0.genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn13(FileStreamClass0\obj\Debug\net6.0\ref\qsn13(FileStreamClass0.dll

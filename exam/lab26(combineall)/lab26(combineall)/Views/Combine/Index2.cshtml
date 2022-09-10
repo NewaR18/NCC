@@ -1,0 +1,9 @@
+﻿@model lab26_combineall_.Models.Profile
+<h2>Session value: </h2>
+<h3>Name: @Model.Name</h3>
+@{
+    var RollNo = TempData["RollNo"]?.ToString();
+}
+<br/><br/>
+<h2>Temp Data Value: </h2>
+<h3>Roll No: @RollNo</h3>

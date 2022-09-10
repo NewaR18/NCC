@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn9(PartialClass)\bin\Debug\net6.0\qsn9(PartialClass).exe
+C:\Users\sudip\source\repos\qsn9(PartialClass)\bin\Debug\net6.0\qsn9(PartialClass).deps.json
+C:\Users\sudip\source\repos\qsn9(PartialClass)\bin\Debug\net6.0\qsn9(PartialClass).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn9(PartialClass)\bin\Debug\net6.0\qsn9(PartialClass).dll
+C:\Users\sudip\source\repos\qsn9(PartialClass)\bin\Debug\net6.0\qsn9(PartialClass).pdb
+C:\Users\sudip\source\repos\qsn9(PartialClass)\obj\Debug\net6.0\qsn9(PartialClass).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn9(PartialClass)\obj\Debug\net6.0\qsn9(PartialClass).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn9(PartialClass)\obj\Debug\net6.0\qsn9(PartialClass).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn9(PartialClass)\obj\Debug\net6.0\qsn9(PartialClass).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn9(PartialClass)\obj\Debug\net6.0\qsn9(PartialClass).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn9(PartialClass)\obj\Debug\net6.0\qsn9(PartialClass).dll
+C:\Users\sudip\source\repos\qsn9(PartialClass)\obj\Debug\net6.0\refint\qsn9(PartialClass).dll
+C:\Users\sudip\source\repos\qsn9(PartialClass)\obj\Debug\net6.0\qsn9(PartialClass).pdb
+C:\Users\sudip\source\repos\qsn9(PartialClass)\obj\Debug\net6.0\qsn9(PartialClass).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn9(PartialClass)\obj\Debug\net6.0\ref\qsn9(PartialClass).dll

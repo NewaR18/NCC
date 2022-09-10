@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\bin\Debug\net6.0\qnsr(startsandendswith).exe
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\bin\Debug\net6.0\qnsr(startsandendswith).deps.json
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\bin\Debug\net6.0\qnsr(startsandendswith).runtimeconfig.json
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\bin\Debug\net6.0\qnsr(startsandendswith).dll
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\bin\Debug\net6.0\qnsr(startsandendswith).pdb
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\obj\Debug\net6.0\qnsr(startsandendswith).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\obj\Debug\net6.0\qnsr(startsandendswith).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\obj\Debug\net6.0\qnsr(startsandendswith).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\obj\Debug\net6.0\qnsr(startsandendswith).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\obj\Debug\net6.0\qnsr(startsandendswith).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\obj\Debug\net6.0\qnsr(startsandendswith).dll
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\obj\Debug\net6.0\refint\qnsr(startsandendswith).dll
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\obj\Debug\net6.0\qnsr(startsandendswith).pdb
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\obj\Debug\net6.0\qnsr(startsandendswith).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qnsr(startsandendswith)\obj\Debug\net6.0\ref\qnsr(startsandendswith).dll

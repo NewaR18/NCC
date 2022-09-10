@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn10(events)\bin\Debug\net6.0\qsn10(events).exe
+C:\Users\sudip\source\repos\qsn10(events)\bin\Debug\net6.0\qsn10(events).deps.json
+C:\Users\sudip\source\repos\qsn10(events)\bin\Debug\net6.0\qsn10(events).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn10(events)\bin\Debug\net6.0\qsn10(events).dll
+C:\Users\sudip\source\repos\qsn10(events)\bin\Debug\net6.0\qsn10(events).pdb
+C:\Users\sudip\source\repos\qsn10(events)\obj\Debug\net6.0\qsn10(events).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn10(events)\obj\Debug\net6.0\qsn10(events).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn10(events)\obj\Debug\net6.0\qsn10(events).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn10(events)\obj\Debug\net6.0\qsn10(events).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn10(events)\obj\Debug\net6.0\qsn10(events).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn10(events)\obj\Debug\net6.0\qsn10(events).dll
+C:\Users\sudip\source\repos\qsn10(events)\obj\Debug\net6.0\refint\qsn10(events).dll
+C:\Users\sudip\source\repos\qsn10(events)\obj\Debug\net6.0\qsn10(events).pdb
+C:\Users\sudip\source\repos\qsn10(events)\obj\Debug\net6.0\qsn10(events).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn10(events)\obj\Debug\net6.0\ref\qsn10(events).dll

@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\Abstract Class\bin\Debug\net6.0\Abstract Class.exe
+C:\Users\sudip\source\repos\Abstract Class\bin\Debug\net6.0\Abstract Class.deps.json
+C:\Users\sudip\source\repos\Abstract Class\bin\Debug\net6.0\Abstract Class.runtimeconfig.json
+C:\Users\sudip\source\repos\Abstract Class\bin\Debug\net6.0\Abstract Class.dll
+C:\Users\sudip\source\repos\Abstract Class\bin\Debug\net6.0\Abstract Class.pdb
+C:\Users\sudip\source\repos\Abstract Class\obj\Debug\net6.0\Abstract Class.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\Abstract Class\obj\Debug\net6.0\Abstract Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\Abstract Class\obj\Debug\net6.0\Abstract Class.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\Abstract Class\obj\Debug\net6.0\Abstract Class.AssemblyInfo.cs
+C:\Users\sudip\source\repos\Abstract Class\obj\Debug\net6.0\Abstract Class.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\Abstract Class\obj\Debug\net6.0\Abstract Class.dll
+C:\Users\sudip\source\repos\Abstract Class\obj\Debug\net6.0\refint\Abstract Class.dll
+C:\Users\sudip\source\repos\Abstract Class\obj\Debug\net6.0\Abstract Class.pdb
+C:\Users\sudip\source\repos\Abstract Class\obj\Debug\net6.0\Abstract Class.genruntimeconfig.cache
+C:\Users\sudip\source\repos\Abstract Class\obj\Debug\net6.0\ref\Abstract Class.dll

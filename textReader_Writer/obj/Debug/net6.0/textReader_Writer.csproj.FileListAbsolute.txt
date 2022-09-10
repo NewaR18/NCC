@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\textReader_Writer\bin\Debug\net6.0\textReader_Writer.exe
+C:\Users\sudip\source\repos\textReader_Writer\bin\Debug\net6.0\textReader_Writer.deps.json
+C:\Users\sudip\source\repos\textReader_Writer\bin\Debug\net6.0\textReader_Writer.runtimeconfig.json
+C:\Users\sudip\source\repos\textReader_Writer\bin\Debug\net6.0\textReader_Writer.dll
+C:\Users\sudip\source\repos\textReader_Writer\bin\Debug\net6.0\textReader_Writer.pdb
+C:\Users\sudip\source\repos\textReader_Writer\obj\Debug\net6.0\textReader_Writer.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\textReader_Writer\obj\Debug\net6.0\textReader_Writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\textReader_Writer\obj\Debug\net6.0\textReader_Writer.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\textReader_Writer\obj\Debug\net6.0\textReader_Writer.AssemblyInfo.cs
+C:\Users\sudip\source\repos\textReader_Writer\obj\Debug\net6.0\textReader_Writer.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\textReader_Writer\obj\Debug\net6.0\textReader_Writer.dll
+C:\Users\sudip\source\repos\textReader_Writer\obj\Debug\net6.0\refint\textReader_Writer.dll
+C:\Users\sudip\source\repos\textReader_Writer\obj\Debug\net6.0\textReader_Writer.pdb
+C:\Users\sudip\source\repos\textReader_Writer\obj\Debug\net6.0\textReader_Writer.genruntimeconfig.cache
+C:\Users\sudip\source\repos\textReader_Writer\obj\Debug\net6.0\ref\textReader_Writer.dll

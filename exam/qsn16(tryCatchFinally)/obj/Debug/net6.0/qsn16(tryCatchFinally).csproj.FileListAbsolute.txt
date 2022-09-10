@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\bin\Debug\net6.0\qsn16(tryCatchFinally).exe
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\bin\Debug\net6.0\qsn16(tryCatchFinally).deps.json
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\bin\Debug\net6.0\qsn16(tryCatchFinally).runtimeconfig.json
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\bin\Debug\net6.0\qsn16(tryCatchFinally).dll
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\bin\Debug\net6.0\qsn16(tryCatchFinally).pdb
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\obj\Debug\net6.0\qsn16(tryCatchFinally).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\obj\Debug\net6.0\qsn16(tryCatchFinally).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\obj\Debug\net6.0\qsn16(tryCatchFinally).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\obj\Debug\net6.0\qsn16(tryCatchFinally).AssemblyInfo.cs
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\obj\Debug\net6.0\qsn16(tryCatchFinally).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\obj\Debug\net6.0\qsn16(tryCatchFinally).dll
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\obj\Debug\net6.0\refint\qsn16(tryCatchFinally).dll
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\obj\Debug\net6.0\qsn16(tryCatchFinally).pdb
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\obj\Debug\net6.0\qsn16(tryCatchFinally).genruntimeconfig.cache
+C:\Users\sudip\source\repos\exam\qsn16(tryCatchFinally)\obj\Debug\net6.0\ref\qsn16(tryCatchFinally).dll

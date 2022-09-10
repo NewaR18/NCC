@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "qsn15(LambdaLINQ)/1.0.0": {
+        "runtime": {
+          "qsn15(LambdaLINQ).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "qsn15(LambdaLINQ)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\abcd\abcd\bin\Debug\net6.0\abcd.exe
+C:\Users\sudip\source\repos\abcd\abcd\bin\Debug\net6.0\abcd.deps.json
+C:\Users\sudip\source\repos\abcd\abcd\bin\Debug\net6.0\abcd.runtimeconfig.json
+C:\Users\sudip\source\repos\abcd\abcd\bin\Debug\net6.0\abcd.dll
+C:\Users\sudip\source\repos\abcd\abcd\bin\Debug\net6.0\abcd.pdb
+C:\Users\sudip\source\repos\abcd\abcd\obj\Debug\net6.0\abcd.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\abcd\abcd\obj\Debug\net6.0\abcd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\abcd\abcd\obj\Debug\net6.0\abcd.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\abcd\abcd\obj\Debug\net6.0\abcd.AssemblyInfo.cs
+C:\Users\sudip\source\repos\abcd\abcd\obj\Debug\net6.0\abcd.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\abcd\abcd\obj\Debug\net6.0\abcd.dll
+C:\Users\sudip\source\repos\abcd\abcd\obj\Debug\net6.0\refint\abcd.dll
+C:\Users\sudip\source\repos\abcd\abcd\obj\Debug\net6.0\abcd.pdb
+C:\Users\sudip\source\repos\abcd\abcd\obj\Debug\net6.0\abcd.genruntimeconfig.cache
+C:\Users\sudip\source\repos\abcd\abcd\obj\Debug\net6.0\ref\abcd.dll

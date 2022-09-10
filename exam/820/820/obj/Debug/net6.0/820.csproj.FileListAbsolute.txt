@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\exam\820\820\bin\Debug\net6.0\820.exe
+C:\Users\sudip\source\repos\exam\820\820\bin\Debug\net6.0\820.deps.json
+C:\Users\sudip\source\repos\exam\820\820\bin\Debug\net6.0\820.runtimeconfig.json
+C:\Users\sudip\source\repos\exam\820\820\bin\Debug\net6.0\820.dll
+C:\Users\sudip\source\repos\exam\820\820\bin\Debug\net6.0\820.pdb
+C:\Users\sudip\source\repos\exam\820\820\obj\Debug\net6.0\820.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\exam\820\820\obj\Debug\net6.0\820.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\exam\820\820\obj\Debug\net6.0\820.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\exam\820\820\obj\Debug\net6.0\820.AssemblyInfo.cs
+C:\Users\sudip\source\repos\exam\820\820\obj\Debug\net6.0\820.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\exam\820\820\obj\Debug\net6.0\820.dll
+C:\Users\sudip\source\repos\exam\820\820\obj\Debug\net6.0\refint\820.dll
+C:\Users\sudip\source\repos\exam\820\820\obj\Debug\net6.0\820.pdb
+C:\Users\sudip\source\repos\exam\820\820\obj\Debug\net6.0\820.genruntimeconfig.cache
+C:\Users\sudip\source\repos\exam\820\820\obj\Debug\net6.0\ref\820.dll

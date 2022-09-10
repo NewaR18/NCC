@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn4(toUppercase)\bin\Debug\net6.0\qsn4(toUppercase).exe
+C:\Users\sudip\source\repos\qsn4(toUppercase)\bin\Debug\net6.0\qsn4(toUppercase).deps.json
+C:\Users\sudip\source\repos\qsn4(toUppercase)\bin\Debug\net6.0\qsn4(toUppercase).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn4(toUppercase)\bin\Debug\net6.0\qsn4(toUppercase).dll
+C:\Users\sudip\source\repos\qsn4(toUppercase)\bin\Debug\net6.0\qsn4(toUppercase).pdb
+C:\Users\sudip\source\repos\qsn4(toUppercase)\obj\Debug\net6.0\qsn4(toUppercase).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn4(toUppercase)\obj\Debug\net6.0\qsn4(toUppercase).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn4(toUppercase)\obj\Debug\net6.0\qsn4(toUppercase).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn4(toUppercase)\obj\Debug\net6.0\qsn4(toUppercase).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn4(toUppercase)\obj\Debug\net6.0\qsn4(toUppercase).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn4(toUppercase)\obj\Debug\net6.0\qsn4(toUppercase).dll
+C:\Users\sudip\source\repos\qsn4(toUppercase)\obj\Debug\net6.0\refint\qsn4(toUppercase).dll
+C:\Users\sudip\source\repos\qsn4(toUppercase)\obj\Debug\net6.0\qsn4(toUppercase).pdb
+C:\Users\sudip\source\repos\qsn4(toUppercase)\obj\Debug\net6.0\qsn4(toUppercase).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn4(toUppercase)\obj\Debug\net6.0\ref\qsn4(toUppercase).dll

@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\bin\Debug\net6.0\qsn10(multicastDelegate).exe
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\bin\Debug\net6.0\qsn10(multicastDelegate).deps.json
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\bin\Debug\net6.0\qsn10(multicastDelegate).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\bin\Debug\net6.0\qsn10(multicastDelegate).dll
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\bin\Debug\net6.0\qsn10(multicastDelegate).pdb
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\obj\Debug\net6.0\qsn10(multicastDelegate).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\obj\Debug\net6.0\qsn10(multicastDelegate).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\obj\Debug\net6.0\qsn10(multicastDelegate).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\obj\Debug\net6.0\qsn10(multicastDelegate).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\obj\Debug\net6.0\qsn10(multicastDelegate).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\obj\Debug\net6.0\qsn10(multicastDelegate).dll
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\obj\Debug\net6.0\refint\qsn10(multicastDelegate).dll
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\obj\Debug\net6.0\qsn10(multicastDelegate).pdb
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\obj\Debug\net6.0\qsn10(multicastDelegate).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn10(multicastDelegate)\obj\Debug\net6.0\ref\qsn10(multicastDelegate).dll

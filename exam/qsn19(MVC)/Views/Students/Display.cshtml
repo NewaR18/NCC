@@ -1,0 +1,26 @@
+﻿@{
+    ViewData["Title"] = "First Question";
+}
+<h4>Date & time</h4>
+<h6>@DateTime.Now.ToShortDateString()</h6>
+<h6>@DateTime.Now.ToShortTimeString()</h6>
+<br/>
+<h4>Name:</h4>
+<h6>Sudip Shrestha</h6>
+<h4>Roll No:</h4>
+<h6>20</h6>
+<br/>
+@{
+    int roll = 20;
+    <h4>Multiplication Table of @(roll+1)</h4>
+    <table border="1" cellpadding="10">
+        @for(int i = 1; i <= 10; i++)
+        {
+            <tr> 
+                <td>@(roll+1) * @i = @((roll+1)*i)</td>
+            </tr>
+        }
+    </table>
+}
+
+

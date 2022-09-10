@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\bin\Debug\net6.0\qsn5(otherthanintIndexer).exe
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\bin\Debug\net6.0\qsn5(otherthanintIndexer).deps.json
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\bin\Debug\net6.0\qsn5(otherthanintIndexer).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\bin\Debug\net6.0\qsn5(otherthanintIndexer).dll
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\bin\Debug\net6.0\qsn5(otherthanintIndexer).pdb
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\obj\Debug\net6.0\qsn5(otherthanintIndexer).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\obj\Debug\net6.0\qsn5(otherthanintIndexer).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\obj\Debug\net6.0\qsn5(otherthanintIndexer).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\obj\Debug\net6.0\qsn5(otherthanintIndexer).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\obj\Debug\net6.0\qsn5(otherthanintIndexer).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\obj\Debug\net6.0\qsn5(otherthanintIndexer).dll
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\obj\Debug\net6.0\refint\qsn5(otherthanintIndexer).dll
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\obj\Debug\net6.0\qsn5(otherthanintIndexer).pdb
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\obj\Debug\net6.0\qsn5(otherthanintIndexer).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn5(otherthanintIndexer)\obj\Debug\net6.0\ref\qsn5(otherthanintIndexer).dll

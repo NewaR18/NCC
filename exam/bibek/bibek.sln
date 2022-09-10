@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bibek", "bibek.csproj", "{633048FB-9ABA-4ADC-B251-C5AB91BFE555}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{633048FB-9ABA-4ADC-B251-C5AB91BFE555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633048FB-9ABA-4ADC-B251-C5AB91BFE555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633048FB-9ABA-4ADC-B251-C5AB91BFE555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633048FB-9ABA-4ADC-B251-C5AB91BFE555}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36EB1994-B5E2-42B4-A0AD-106487CF0379}
+	EndGlobalSection
+EndGlobal

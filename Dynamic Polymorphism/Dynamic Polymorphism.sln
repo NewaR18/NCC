@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dynamic Polymorphism", "Dynamic Polymorphism.csproj", "{7BB7A417-22AA-4CCF-BFF0-6121EFEFE16E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB7A417-22AA-4CCF-BFF0-6121EFEFE16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BB7A417-22AA-4CCF-BFF0-6121EFEFE16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BB7A417-22AA-4CCF-BFF0-6121EFEFE16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BB7A417-22AA-4CCF-BFF0-6121EFEFE16E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5582A7D6-9CD1-42F7-B910-A3DE86568DAD}
+	EndGlobalSection
+EndGlobal

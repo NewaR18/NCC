@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn2(property)\bin\Debug\net6.0\qsn2(property).exe
+C:\Users\sudip\source\repos\qsn2(property)\bin\Debug\net6.0\qsn2(property).deps.json
+C:\Users\sudip\source\repos\qsn2(property)\bin\Debug\net6.0\qsn2(property).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn2(property)\bin\Debug\net6.0\qsn2(property).dll
+C:\Users\sudip\source\repos\qsn2(property)\bin\Debug\net6.0\qsn2(property).pdb
+C:\Users\sudip\source\repos\qsn2(property)\obj\Debug\net6.0\qsn2(property).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn2(property)\obj\Debug\net6.0\qsn2(property).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn2(property)\obj\Debug\net6.0\qsn2(property).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn2(property)\obj\Debug\net6.0\qsn2(property).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn2(property)\obj\Debug\net6.0\qsn2(property).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn2(property)\obj\Debug\net6.0\qsn2(property).dll
+C:\Users\sudip\source\repos\qsn2(property)\obj\Debug\net6.0\refint\qsn2(property).dll
+C:\Users\sudip\source\repos\qsn2(property)\obj\Debug\net6.0\qsn2(property).pdb
+C:\Users\sudip\source\repos\qsn2(property)\obj\Debug\net6.0\qsn2(property).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn2(property)\obj\Debug\net6.0\ref\qsn2(property).dll

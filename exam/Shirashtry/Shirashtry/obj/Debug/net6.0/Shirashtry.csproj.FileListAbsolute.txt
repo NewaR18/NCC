@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\bin\Debug\net6.0\Shirashtry.exe
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\bin\Debug\net6.0\Shirashtry.deps.json
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\bin\Debug\net6.0\Shirashtry.runtimeconfig.json
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\bin\Debug\net6.0\Shirashtry.dll
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\bin\Debug\net6.0\Shirashtry.pdb
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\obj\Debug\net6.0\Shirashtry.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\obj\Debug\net6.0\Shirashtry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\obj\Debug\net6.0\Shirashtry.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\obj\Debug\net6.0\Shirashtry.AssemblyInfo.cs
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\obj\Debug\net6.0\Shirashtry.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\obj\Debug\net6.0\Shirashtry.dll
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\obj\Debug\net6.0\refint\Shirashtry.dll
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\obj\Debug\net6.0\Shirashtry.pdb
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\obj\Debug\net6.0\Shirashtry.genruntimeconfig.cache
+C:\Users\sudip\source\repos\exam\Shirashtry\Shirashtry\obj\Debug\net6.0\ref\Shirashtry.dll

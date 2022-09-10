@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\bin\Debug\net6.0\qsn1(defaultConstructor).exe
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\bin\Debug\net6.0\qsn1(defaultConstructor).deps.json
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\bin\Debug\net6.0\qsn1(defaultConstructor).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\bin\Debug\net6.0\qsn1(defaultConstructor).dll
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\bin\Debug\net6.0\qsn1(defaultConstructor).pdb
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\obj\Debug\net6.0\qsn1(defaultConstructor).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\obj\Debug\net6.0\qsn1(defaultConstructor).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\obj\Debug\net6.0\qsn1(defaultConstructor).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\obj\Debug\net6.0\qsn1(defaultConstructor).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\obj\Debug\net6.0\qsn1(defaultConstructor).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\obj\Debug\net6.0\qsn1(defaultConstructor).dll
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\obj\Debug\net6.0\refint\qsn1(defaultConstructor).dll
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\obj\Debug\net6.0\qsn1(defaultConstructor).pdb
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\obj\Debug\net6.0\qsn1(defaultConstructor).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn1(defaultConstructor)\obj\Debug\net6.0\ref\qsn1(defaultConstructor).dll

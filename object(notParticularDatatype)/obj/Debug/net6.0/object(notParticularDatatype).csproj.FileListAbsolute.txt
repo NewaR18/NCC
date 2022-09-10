@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\object(notParticularDatatype)\bin\Debug\net6.0\object(notParticularDatatype).exe
+C:\Users\sudip\source\repos\object(notParticularDatatype)\bin\Debug\net6.0\object(notParticularDatatype).deps.json
+C:\Users\sudip\source\repos\object(notParticularDatatype)\bin\Debug\net6.0\object(notParticularDatatype).runtimeconfig.json
+C:\Users\sudip\source\repos\object(notParticularDatatype)\bin\Debug\net6.0\object(notParticularDatatype).dll
+C:\Users\sudip\source\repos\object(notParticularDatatype)\bin\Debug\net6.0\object(notParticularDatatype).pdb
+C:\Users\sudip\source\repos\object(notParticularDatatype)\obj\Debug\net6.0\object(notParticularDatatype).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\object(notParticularDatatype)\obj\Debug\net6.0\object(notParticularDatatype).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\object(notParticularDatatype)\obj\Debug\net6.0\object(notParticularDatatype).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\object(notParticularDatatype)\obj\Debug\net6.0\object(notParticularDatatype).AssemblyInfo.cs
+C:\Users\sudip\source\repos\object(notParticularDatatype)\obj\Debug\net6.0\object(notParticularDatatype).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\object(notParticularDatatype)\obj\Debug\net6.0\object(notParticularDatatype).dll
+C:\Users\sudip\source\repos\object(notParticularDatatype)\obj\Debug\net6.0\refint\object(notParticularDatatype).dll
+C:\Users\sudip\source\repos\object(notParticularDatatype)\obj\Debug\net6.0\object(notParticularDatatype).pdb
+C:\Users\sudip\source\repos\object(notParticularDatatype)\obj\Debug\net6.0\object(notParticularDatatype).genruntimeconfig.cache
+C:\Users\sudip\source\repos\object(notParticularDatatype)\obj\Debug\net6.0\ref\object(notParticularDatatype).dll

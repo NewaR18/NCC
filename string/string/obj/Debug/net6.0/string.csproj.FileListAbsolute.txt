@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\string\string\bin\Debug\net6.0\string.exe
+C:\Users\sudip\source\repos\string\string\bin\Debug\net6.0\string.deps.json
+C:\Users\sudip\source\repos\string\string\bin\Debug\net6.0\string.runtimeconfig.json
+C:\Users\sudip\source\repos\string\string\bin\Debug\net6.0\string.dll
+C:\Users\sudip\source\repos\string\string\bin\Debug\net6.0\string.pdb
+C:\Users\sudip\source\repos\string\string\obj\Debug\net6.0\string.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\string\string\obj\Debug\net6.0\string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\string\string\obj\Debug\net6.0\string.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\string\string\obj\Debug\net6.0\string.AssemblyInfo.cs
+C:\Users\sudip\source\repos\string\string\obj\Debug\net6.0\string.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\string\string\obj\Debug\net6.0\string.dll
+C:\Users\sudip\source\repos\string\string\obj\Debug\net6.0\refint\string.dll
+C:\Users\sudip\source\repos\string\string\obj\Debug\net6.0\string.pdb
+C:\Users\sudip\source\repos\string\string\obj\Debug\net6.0\string.genruntimeconfig.cache
+C:\Users\sudip\source\repos\string\string\obj\Debug\net6.0\ref\string.dll

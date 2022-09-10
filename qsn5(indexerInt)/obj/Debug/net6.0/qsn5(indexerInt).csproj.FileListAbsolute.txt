@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn5(indexerInt)\obj\Debug\net6.0\qsn5(indexerInt).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn5(indexerInt)\obj\Debug\net6.0\qsn5(indexerInt).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn5(indexerInt)\obj\Debug\net6.0\qsn5(indexerInt).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn5(indexerInt)\obj\Debug\net6.0\qsn5(indexerInt).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn5(indexerInt)\obj\Debug\net6.0\qsn5(indexerInt).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn5(indexerInt)\bin\Debug\net6.0\qsn5(indexerInt).exe
+C:\Users\sudip\source\repos\qsn5(indexerInt)\bin\Debug\net6.0\qsn5(indexerInt).deps.json
+C:\Users\sudip\source\repos\qsn5(indexerInt)\bin\Debug\net6.0\qsn5(indexerInt).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn5(indexerInt)\bin\Debug\net6.0\qsn5(indexerInt).dll
+C:\Users\sudip\source\repos\qsn5(indexerInt)\bin\Debug\net6.0\qsn5(indexerInt).pdb
+C:\Users\sudip\source\repos\qsn5(indexerInt)\obj\Debug\net6.0\qsn5(indexerInt).dll
+C:\Users\sudip\source\repos\qsn5(indexerInt)\obj\Debug\net6.0\refint\qsn5(indexerInt).dll
+C:\Users\sudip\source\repos\qsn5(indexerInt)\obj\Debug\net6.0\qsn5(indexerInt).pdb
+C:\Users\sudip\source\repos\qsn5(indexerInt)\obj\Debug\net6.0\qsn5(indexerInt).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn5(indexerInt)\obj\Debug\net6.0\ref\qsn5(indexerInt).dll

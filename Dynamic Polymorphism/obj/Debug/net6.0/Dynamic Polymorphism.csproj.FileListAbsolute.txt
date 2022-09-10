@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\Dynamic Polymorphism\bin\Debug\net6.0\Dynamic Polymorphism.exe
+C:\Users\sudip\source\repos\Dynamic Polymorphism\bin\Debug\net6.0\Dynamic Polymorphism.deps.json
+C:\Users\sudip\source\repos\Dynamic Polymorphism\bin\Debug\net6.0\Dynamic Polymorphism.runtimeconfig.json
+C:\Users\sudip\source\repos\Dynamic Polymorphism\bin\Debug\net6.0\Dynamic Polymorphism.dll
+C:\Users\sudip\source\repos\Dynamic Polymorphism\bin\Debug\net6.0\Dynamic Polymorphism.pdb
+C:\Users\sudip\source\repos\Dynamic Polymorphism\obj\Debug\net6.0\Dynamic Polymorphism.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\Dynamic Polymorphism\obj\Debug\net6.0\Dynamic Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\Dynamic Polymorphism\obj\Debug\net6.0\Dynamic Polymorphism.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\Dynamic Polymorphism\obj\Debug\net6.0\Dynamic Polymorphism.AssemblyInfo.cs
+C:\Users\sudip\source\repos\Dynamic Polymorphism\obj\Debug\net6.0\Dynamic Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\Dynamic Polymorphism\obj\Debug\net6.0\Dynamic Polymorphism.dll
+C:\Users\sudip\source\repos\Dynamic Polymorphism\obj\Debug\net6.0\refint\Dynamic Polymorphism.dll
+C:\Users\sudip\source\repos\Dynamic Polymorphism\obj\Debug\net6.0\Dynamic Polymorphism.pdb
+C:\Users\sudip\source\repos\Dynamic Polymorphism\obj\Debug\net6.0\Dynamic Polymorphism.genruntimeconfig.cache
+C:\Users\sudip\source\repos\Dynamic Polymorphism\obj\Debug\net6.0\ref\Dynamic Polymorphism.dll

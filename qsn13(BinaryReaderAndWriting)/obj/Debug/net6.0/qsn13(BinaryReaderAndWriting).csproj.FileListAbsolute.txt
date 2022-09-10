@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\bin\Debug\net6.0\qsn13(BinaryReaderAndWriting).exe
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\bin\Debug\net6.0\qsn13(BinaryReaderAndWriting).deps.json
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\bin\Debug\net6.0\qsn13(BinaryReaderAndWriting).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\bin\Debug\net6.0\qsn13(BinaryReaderAndWriting).dll
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\bin\Debug\net6.0\qsn13(BinaryReaderAndWriting).pdb
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\obj\Debug\net6.0\qsn13(BinaryReaderAndWriting).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\obj\Debug\net6.0\qsn13(BinaryReaderAndWriting).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\obj\Debug\net6.0\qsn13(BinaryReaderAndWriting).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\obj\Debug\net6.0\qsn13(BinaryReaderAndWriting).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\obj\Debug\net6.0\qsn13(BinaryReaderAndWriting).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\obj\Debug\net6.0\qsn13(BinaryReaderAndWriting).dll
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\obj\Debug\net6.0\refint\qsn13(BinaryReaderAndWriting).dll
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\obj\Debug\net6.0\qsn13(BinaryReaderAndWriting).pdb
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\obj\Debug\net6.0\qsn13(BinaryReaderAndWriting).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn13(BinaryReaderAndWriting)\obj\Debug\net6.0\ref\qsn13(BinaryReaderAndWriting).dll

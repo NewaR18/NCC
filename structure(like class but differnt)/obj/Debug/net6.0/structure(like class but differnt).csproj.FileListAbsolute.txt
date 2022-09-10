@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\structure(like class but differnt)\obj\Debug\net6.0\structure(like class but differnt).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\structure(like class but differnt)\obj\Debug\net6.0\structure(like class but differnt).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\structure(like class but differnt)\obj\Debug\net6.0\structure(like class but differnt).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\structure(like class but differnt)\obj\Debug\net6.0\structure(like class but differnt).AssemblyInfo.cs
+C:\Users\sudip\source\repos\structure(like class but differnt)\obj\Debug\net6.0\structure(like class but differnt).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\structure(like class but differnt)\bin\Debug\net6.0\structure(like class but differnt).exe
+C:\Users\sudip\source\repos\structure(like class but differnt)\bin\Debug\net6.0\structure(like class but differnt).deps.json
+C:\Users\sudip\source\repos\structure(like class but differnt)\bin\Debug\net6.0\structure(like class but differnt).runtimeconfig.json
+C:\Users\sudip\source\repos\structure(like class but differnt)\bin\Debug\net6.0\structure(like class but differnt).dll
+C:\Users\sudip\source\repos\structure(like class but differnt)\bin\Debug\net6.0\structure(like class but differnt).pdb
+C:\Users\sudip\source\repos\structure(like class but differnt)\obj\Debug\net6.0\structure(like class but differnt).dll
+C:\Users\sudip\source\repos\structure(like class but differnt)\obj\Debug\net6.0\refint\structure(like class but differnt).dll
+C:\Users\sudip\source\repos\structure(like class but differnt)\obj\Debug\net6.0\structure(like class but differnt).pdb
+C:\Users\sudip\source\repos\structure(like class but differnt)\obj\Debug\net6.0\structure(like class but differnt).genruntimeconfig.cache
+C:\Users\sudip\source\repos\structure(like class but differnt)\obj\Debug\net6.0\ref\structure(like class but differnt).dll

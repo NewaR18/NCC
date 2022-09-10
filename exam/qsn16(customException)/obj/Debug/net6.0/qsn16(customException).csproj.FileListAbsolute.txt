@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\exam\qsn16(customException)\obj\Debug\net6.0\qsn16(customException).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\exam\qsn16(customException)\obj\Debug\net6.0\qsn16(customException).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\exam\qsn16(customException)\obj\Debug\net6.0\qsn16(customException).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\exam\qsn16(customException)\obj\Debug\net6.0\qsn16(customException).AssemblyInfo.cs
+C:\Users\sudip\source\repos\exam\qsn16(customException)\obj\Debug\net6.0\qsn16(customException).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\exam\qsn16(customException)\bin\Debug\net6.0\qsn16(customException).exe
+C:\Users\sudip\source\repos\exam\qsn16(customException)\bin\Debug\net6.0\qsn16(customException).deps.json
+C:\Users\sudip\source\repos\exam\qsn16(customException)\bin\Debug\net6.0\qsn16(customException).runtimeconfig.json
+C:\Users\sudip\source\repos\exam\qsn16(customException)\bin\Debug\net6.0\qsn16(customException).dll
+C:\Users\sudip\source\repos\exam\qsn16(customException)\bin\Debug\net6.0\qsn16(customException).pdb
+C:\Users\sudip\source\repos\exam\qsn16(customException)\obj\Debug\net6.0\qsn16(customException).dll
+C:\Users\sudip\source\repos\exam\qsn16(customException)\obj\Debug\net6.0\refint\qsn16(customException).dll
+C:\Users\sudip\source\repos\exam\qsn16(customException)\obj\Debug\net6.0\qsn16(customException).pdb
+C:\Users\sudip\source\repos\exam\qsn16(customException)\obj\Debug\net6.0\qsn16(customException).genruntimeconfig.cache
+C:\Users\sudip\source\repos\exam\qsn16(customException)\obj\Debug\net6.0\ref\qsn16(customException).dll

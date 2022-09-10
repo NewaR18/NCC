@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "qsn3(Matrixmultiplication)/1.0.0": {
+        "runtime": {
+          "qsn3(Matrixmultiplication).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "qsn3(Matrixmultiplication)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

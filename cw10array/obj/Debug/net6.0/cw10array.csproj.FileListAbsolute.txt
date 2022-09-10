@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\cw10array\bin\Debug\net6.0\cw10array.exe
+C:\Users\sudip\source\repos\cw10array\bin\Debug\net6.0\cw10array.deps.json
+C:\Users\sudip\source\repos\cw10array\bin\Debug\net6.0\cw10array.runtimeconfig.json
+C:\Users\sudip\source\repos\cw10array\bin\Debug\net6.0\cw10array.dll
+C:\Users\sudip\source\repos\cw10array\bin\Debug\net6.0\cw10array.pdb
+C:\Users\sudip\source\repos\cw10array\obj\Debug\net6.0\cw10array.csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\cw10array\obj\Debug\net6.0\cw10array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\cw10array\obj\Debug\net6.0\cw10array.AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\cw10array\obj\Debug\net6.0\cw10array.AssemblyInfo.cs
+C:\Users\sudip\source\repos\cw10array\obj\Debug\net6.0\cw10array.csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\cw10array\obj\Debug\net6.0\cw10array.dll
+C:\Users\sudip\source\repos\cw10array\obj\Debug\net6.0\refint\cw10array.dll
+C:\Users\sudip\source\repos\cw10array\obj\Debug\net6.0\cw10array.pdb
+C:\Users\sudip\source\repos\cw10array\obj\Debug\net6.0\cw10array.genruntimeconfig.cache
+C:\Users\sudip\source\repos\cw10array\obj\Debug\net6.0\ref\cw10array.dll

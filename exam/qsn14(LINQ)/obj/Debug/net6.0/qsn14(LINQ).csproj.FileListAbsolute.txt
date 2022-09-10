@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\bin\Debug\net6.0\qsn14(LINQ).exe
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\bin\Debug\net6.0\qsn14(LINQ).deps.json
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\bin\Debug\net6.0\qsn14(LINQ).runtimeconfig.json
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\bin\Debug\net6.0\qsn14(LINQ).dll
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\bin\Debug\net6.0\qsn14(LINQ).pdb
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\obj\Debug\net6.0\qsn14(LINQ).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\obj\Debug\net6.0\qsn14(LINQ).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\obj\Debug\net6.0\qsn14(LINQ).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\obj\Debug\net6.0\qsn14(LINQ).AssemblyInfo.cs
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\obj\Debug\net6.0\qsn14(LINQ).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\obj\Debug\net6.0\qsn14(LINQ).dll
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\obj\Debug\net6.0\refint\qsn14(LINQ).dll
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\obj\Debug\net6.0\qsn14(LINQ).pdb
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\obj\Debug\net6.0\qsn14(LINQ).genruntimeconfig.cache
+C:\Users\sudip\source\repos\exam\qsn14(LINQ)\obj\Debug\net6.0\ref\qsn14(LINQ).dll

@@ -1,0 +1,22 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Letstry.Models.Sudip;
+@addTagHelper*, Microsoft.AspNetCore.MVC.TagHelpers
+
+<form asp-controller="SudipView" asp-action="MyDetails">
+    <label asp-for="id">Enter your id: </label>
+    <input type="number" asp-for="id" />
+    <span asp-validation-for="id"></span>
+    <label asp-for="name">Enter your Name: </label>
+    <input type="text" asp-for="name" />
+    <span asp-validation-for="name"></span>
+    <label asp-for="email">Enter your Email: </label>
+    <input type="text" asp-for="email" />
+    <label asp-for="phoneno">Enter your PhoneNo: </label>
+    <input type="number" asp-for="phoneno" />
+    <input type="Submit" value="SUBmit" />
+</form>
+

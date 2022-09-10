@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\bin\Debug\net6.0\qsn3(jaggedarray).exe
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\bin\Debug\net6.0\qsn3(jaggedarray).deps.json
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\bin\Debug\net6.0\qsn3(jaggedarray).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\bin\Debug\net6.0\qsn3(jaggedarray).dll
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\bin\Debug\net6.0\qsn3(jaggedarray).pdb
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\obj\Debug\net6.0\qsn3(jaggedarray).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\obj\Debug\net6.0\qsn3(jaggedarray).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\obj\Debug\net6.0\qsn3(jaggedarray).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\obj\Debug\net6.0\qsn3(jaggedarray).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\obj\Debug\net6.0\qsn3(jaggedarray).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\obj\Debug\net6.0\qsn3(jaggedarray).dll
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\obj\Debug\net6.0\refint\qsn3(jaggedarray).dll
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\obj\Debug\net6.0\qsn3(jaggedarray).pdb
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\obj\Debug\net6.0\qsn3(jaggedarray).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn3(jaggedarray)\obj\Debug\net6.0\ref\qsn3(jaggedarray).dll

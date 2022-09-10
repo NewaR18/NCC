@@ -1,0 +1,15 @@
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\bin\Debug\net6.0\qsn13(CopyToAnotherFile).exe
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\bin\Debug\net6.0\qsn13(CopyToAnotherFile).deps.json
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\bin\Debug\net6.0\qsn13(CopyToAnotherFile).runtimeconfig.json
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\bin\Debug\net6.0\qsn13(CopyToAnotherFile).dll
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\bin\Debug\net6.0\qsn13(CopyToAnotherFile).pdb
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\obj\Debug\net6.0\qsn13(CopyToAnotherFile).csproj.AssemblyReference.cache
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\obj\Debug\net6.0\qsn13(CopyToAnotherFile).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\obj\Debug\net6.0\qsn13(CopyToAnotherFile).AssemblyInfoInputs.cache
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\obj\Debug\net6.0\qsn13(CopyToAnotherFile).AssemblyInfo.cs
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\obj\Debug\net6.0\qsn13(CopyToAnotherFile).csproj.CoreCompileInputs.cache
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\obj\Debug\net6.0\qsn13(CopyToAnotherFile).dll
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\obj\Debug\net6.0\refint\qsn13(CopyToAnotherFile).dll
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\obj\Debug\net6.0\qsn13(CopyToAnotherFile).pdb
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\obj\Debug\net6.0\qsn13(CopyToAnotherFile).genruntimeconfig.cache
+C:\Users\sudip\source\repos\qsn13(CopyToAnotherFile)\obj\Debug\net6.0\ref\qsn13(CopyToAnotherFile).dll

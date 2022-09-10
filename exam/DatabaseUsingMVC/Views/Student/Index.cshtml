@@ -1,0 +1,41 @@
+﻿@model IEnumerable<Student>
+@{
+    ViewData["Title"] = "First Question";
+}
+<h2>Details</h2>
+<table border="1" style=" padding:20px; margin:20px; text-align:center" cellspacing="1">
+    <thead>
+        <tr style="width:800px; border:1px solid">
+            <th style=" border:1px solid">Id</th>
+            <th style=" border:1px solid">Name</th>
+            <th style=" border:1px solid">Address</th>
+            <th style=" border:1px solid">Phone Number</th>
+            <th style=" border:1px solid">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+    
+            <tr border="1">
+                <td style="width:200px; border:1px solid">
+                    @item.Id
+                </td>
+                <td style="width:200px; border:1px solid">
+                    @item.Name
+                </td>
+                <td style="width:200px; border:1px solid">
+                    @item.Address
+                </td>    
+                <td style="width:200px; border:1px solid">
+                    @item.PhoneNo
+                </td>  
+                <td style="width:200px; border:1px solid">
+                    <a asp-controller="Student" asp-action="editform" asp-route-id="@item.Id">Edit</a> || <a asp-controller="Student" asp-action="DeleteStudent" asp-route-id="@item.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>Do you want to add another member?</p>
+<a asp-controller="Student" asp-action="form">Add</a>
+
